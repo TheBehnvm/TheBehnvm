@@ -5,10 +5,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bexacuter&theme=react&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
- <a href="https://codepen.io/Bexacuter">
+ <a href="https://codepen.io/TheBehnvm">
     <img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white&" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/Bexacuter">
+  <a href="https://t.me/TheBehnvm">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 <div>
